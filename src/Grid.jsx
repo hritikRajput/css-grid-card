@@ -9,7 +9,7 @@ export default function Grid() {
                     <a href="#" className="cover">
                         <div className="product-image">
                             <img
-                                src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1446469353i/22822858.jpg"
+                                src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1529604411i/40604658.jpg"
                                 alt=""
                                 className="w-full"
                             />
